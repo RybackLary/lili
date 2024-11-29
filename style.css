@@ -1,0 +1,25 @@
+#nav-link{
+    font-size: 30px;
+    color: black;
+}
+#img{
+    height: 800px;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+}
+#img-margin{
+    text-align: center;
+}
+#form{
+ height: 800px;
+ width: 1200;
+ margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+}
+p{
+    text-decoration: overline;
+}
+
